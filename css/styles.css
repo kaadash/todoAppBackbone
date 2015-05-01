@@ -1,0 +1,6 @@
+#todo-list .edit {
+  display: none; }
+#todo-list .editing label {
+  display: none; }
+#todo-list .editing .edit {
+  display: inline-block; }

@@ -1,0 +1,11 @@
+#todo-list {
+	.edit {
+		display: none;
+	}
+	.editing label{
+		display: none;
+	}
+	.editing .edit {
+		display: inline-block;
+	}
+}

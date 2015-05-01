@@ -1,0 +1,1 @@
+var Todo=Backbone.Model.extend({defaults:{title:"",completed:!1}});
